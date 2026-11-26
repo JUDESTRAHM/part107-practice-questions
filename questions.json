@@ -1,0 +1,262 @@
+[
+  {
+    "id": "REG-004",
+    "area": "Regulations",
+    "question": "What is the minimum flight visibility required for a Part 107 operation, as observed from the control station?",
+    "choices": [
+      "1 statute mile",
+      "5 statute miles",
+      "3 statute miles"
+    ],
+    "answer": "C",
+    "explanation": "Section 107.51(c) requires flight visibility of no less than 3 statute miles from the location of the control station.",
+    "ref": "14 CFR 107.51(c)"
+  },
+  {
+    "id": "REG-012",
+    "area": "Regulations",
+    "question": "During which period may a small UAS be flown without anti-collision lighting?",
+    "choices": [
+      "Between official sunrise and official sunset",
+      "During civil twilight, if the sky is clear",
+      "Within 30 minutes after official sunset"
+    ],
+    "answer": "A",
+    "explanation": "Anti-collision lighting is required at night and during civil twilight. Daytime means between official sunrise and sunset.",
+    "ref": "14 CFR 107.29"
+  },
+  {
+    "id": "REG-019",
+    "area": "Regulations",
+    "question": "Which describes the visual line of sight rule?",
+    "choices": [
+      "The pilot may use binoculars to watch the aircraft at long range",
+      "The pilot (or visual observer) must see the aircraft with unaided vision, other than corrective lenses",
+      "The pilot may rely on the camera feed if the aircraft is under 400 feet"
+    ],
+    "answer": "B",
+    "explanation": "Section 107.31 requires the aircraft to be seen with vision unaided by anything other than corrective lenses (glasses or contacts).",
+    "ref": "14 CFR 107.31"
+  },
+  {
+    "id": "REG-027",
+    "area": "Regulations",
+    "question": "What blood alcohol concentration or higher prohibits a person from acting as a remote pilot?",
+    "choices": [
+      "0.08 percent",
+      "0.04 percent",
+      "0.10 percent"
+    ],
+    "answer": "B",
+    "explanation": "Part 91.17, which Part 107 applies, prohibits flying with a blood alcohol concentration of 0.04 percent or greater.",
+    "ref": "14 CFR 107.27; 91.17(a)(4)"
+  },
+  {
+    "id": "REG-034",
+    "area": "Regulations",
+    "question": "A remote pilot sees a crewed helicopter approaching at low altitude. What does the right-of-way rule require?",
+    "choices": [
+      "Continue, because the drone is smaller",
+      "Yield and stay well clear of the helicopter",
+      "Pass in front of it quickly"
+    ],
+    "answer": "B",
+    "explanation": "Section 107.37 requires a small UAS to yield the right of way to all other aircraft and not pass over, under, or ahead of them unless well clear.",
+    "ref": "14 CFR 107.37"
+  },
+  {
+    "id": "REG-041",
+    "area": "Regulations",
+    "question": "Which statement about Category 4 operations over people is correct?",
+    "choices": [
+      "The aircraft must weigh 0.55 pounds or less",
+      "The aircraft must hold a Part 21 airworthiness certificate and be flown under its limits",
+      "The aircraft only needs a manufacturer label"
+    ],
+    "answer": "B",
+    "explanation": "Category 4 (Section 107.140) requires an aircraft with an airworthiness certificate under Part 21, operated under all its limitations.",
+    "ref": "14 CFR 107.140"
+  },
+  {
+    "id": "REG-049",
+    "area": "Regulations",
+    "question": "Which item is a required broadcast message element for standard Remote ID?",
+    "choices": [
+      "The pilot's home address",
+      "Control station latitude, longitude and altitude",
+      "The aircraft's payload description"
+    ],
+    "answer": "B",
+    "explanation": "Section 89.305 lists serial number or session ID, aircraft and control station position, aircraft velocity, a UTC time mark, and emergency status.",
+    "ref": "14 CFR 89.305"
+  },
+  {
+    "id": "AIR-004",
+    "area": "Airspace & Operating Requirements",
+    "question": "Which airspace generally extends from the surface to 10,000 feet MSL around the nation's busiest airports?",
+    "choices": [
+      "Class B",
+      "Class C",
+      "Class D"
+    ],
+    "answer": "A",
+    "explanation": "Class B generally extends from the surface to 10,000 feet MSL and is shaped like an upside-down wedding cake.",
+    "ref": "Study Guide Ch. 2; ACS UA.II.A.K1a"
+  },
+  {
+    "id": "AIR-012",
+    "area": "Airspace & Operating Requirements",
+    "question": "A chart shows a dashed magenta line around a small airport. This most likely depicts:",
+    "choices": [
+      "Class D airspace",
+      "Class E airspace that begins at the surface",
+      "A military operations area"
+    ],
+    "answer": "B",
+    "explanation": "A dashed magenta line shows a Class E surface area, in which 107.41 requires ATC authorization.",
+    "ref": "ACS UA.II.A.K1d; 14 CFR 107.41"
+  },
+  {
+    "id": "AIR-019",
+    "area": "Airspace & Operating Requirements",
+    "question": "Which statement best describes a prohibited area?",
+    "choices": [
+      "Flight is allowed with a visual observer",
+      "It only affects flights above 5,000 feet",
+      "Flight is not allowed for security or other reasons unless special permission is obtained"
+    ],
+    "answer": "C",
+    "explanation": "Prohibited areas, such as certain sensitive government sites, bar flight without special permission.",
+    "ref": "ACS UA.I.B.K18"
+  },
+  {
+    "id": "AIR-027",
+    "area": "Airspace & Operating Requirements",
+    "question": "How should a remote pilot treat a skeletal tower with guy wires on a chart?",
+    "choices": [
+      "Fly within 50 feet of the tower for best visibility",
+      "Stay well clear horizontally, because the guy wires can extend roughly 1,500 feet from the tower",
+      "Ignore it if the tower is lit"
+    ],
+    "answer": "B",
+    "explanation": "Guy wires on tall skeletal structures can extend about 1,500 feet horizontally, so the study guide advises staying at least 2,000 feet away.",
+    "ref": "Study Guide Ch. 11"
+  },
+  {
+    "id": "WX-004",
+    "area": "Weather",
+    "question": "In the report METAR KPQR 251753Z 24012G22KT 5SM -RA BKN015 OVC030 12/10 A2987, what is the altimeter setting?",
+    "choices": [
+      "2,987 millibars",
+      "298.7 inches of mercury",
+      "29.87 inches of mercury"
+    ],
+    "answer": "C",
+    "explanation": "An A followed by four digits is the altimeter setting in inches of mercury, with the decimal after the second digit.",
+    "ref": "Study Guide Ch. 3a"
+  },
+  {
+    "id": "WX-011",
+    "area": "Weather",
+    "question": "A fictional TAF includes 'TEMPO 2520/2523 2SM TSRA BKN015CB'. What does TEMPO mean?",
+    "choices": [
+      "A permanent change after the stated time",
+      "A 40 percent probability of the weather",
+      "Temporary fluctuations lasting less than an hour at a time within the period"
+    ],
+    "answer": "C",
+    "explanation": "TEMPO indicates temporary fluctuations expected to last less than one hour at a time and, in total, less than half of the period.",
+    "ref": "Study Guide Ch. 3a"
+  },
+  {
+    "id": "WX-017",
+    "area": "Weather",
+    "question": "When a cold front passes, what conditions are most often associated with it?",
+    "choices": [
+      "Steady warming and calm winds",
+      "Unlimited visibility with no clouds for days",
+      "Gusty winds, a wind shift, and a drop in temperature"
+    ],
+    "answer": "C",
+    "explanation": "Cold fronts bring a shift in wind direction, falling temperatures and often showers or thunderstorms, so conditions can change fast.",
+    "ref": "ACS UA.III.B.K1d"
+  },
+  {
+    "id": "LP-004",
+    "area": "Loading & Performance",
+    "question": "A remote pilot attaches a heavier camera to the front of a quadcopter without changing anything else. What is most likely?",
+    "choices": [
+      "No change to performance",
+      "Center of gravity shifts and flight time and handling change",
+      "The aircraft climbs faster"
+    ],
+    "answer": "B",
+    "explanation": "Added weight and a shift in balance alter stability and increase power use, reducing endurance.",
+    "ref": "Study Guide Ch. 4; ACS UA.IV.A.K1a"
+  },
+  {
+    "id": "LP-010",
+    "area": "Loading & Performance",
+    "question": "A small UAS holds an airspeed of 30 knots flying directly downwind in a 10-knot wind. What is its groundspeed?",
+    "choices": [
+      "20 knots",
+      "40 knots",
+      "30 knots"
+    ],
+    "answer": "B",
+    "explanation": "A tailwind adds to airspeed, so groundspeed is 30 + 10 = 40 knots. The Part 107 speed limit applies to groundspeed.",
+    "ref": "14 CFR 107.51(a); Study Guide Ch. 8"
+  },
+  {
+    "id": "OPS-005",
+    "area": "Operations",
+    "question": "What does ATIS provide?",
+    "choices": [
+      "Live flight instruction",
+      "A map of special-use airspace",
+      "A recorded broadcast of current airport weather and operational information"
+    ],
+    "answer": "C",
+    "explanation": "The Automatic Terminal Information Service is a continuous broadcast of airport conditions such as wind, altimeter, and active runways.",
+    "ref": "ACS UA.V.A.K5"
+  },
+  {
+    "id": "OPS-014",
+    "area": "Operations",
+    "question": "A UAS loses its GPS signal while in flight. What is the likely consequence?",
+    "choices": [
+      "The aircraft may drift because it cannot hold position, so the pilot may need to fly manually",
+      "The aircraft will always land safely by itself",
+      "The aircraft gains range"
+    ],
+    "answer": "A",
+    "explanation": "Without GPS, many aircraft lose position hold and may drift with the wind, requiring pilot input.",
+    "ref": "ACS UA.V.C.K4"
+  },
+  {
+    "id": "OPS-023",
+    "area": "Operations",
+    "question": "A pilot says, 'Regulations are for someone else; I know better.' Which hazardous attitude is this, and what is its antidote?",
+    "choices": [
+      "Macho: 'Taking chances is foolish'",
+      "Resignation: 'I'm not helpless'",
+      "Anti-authority: 'Follow the rules; they are usually right'"
+    ],
+    "answer": "C",
+    "explanation": "Anti-authority attitudes disregard rules, and the antidote is to follow them because they are written for good reasons.",
+    "ref": "Study Guide Ch. 10; ACS UA.V.D.K4"
+  },
+  {
+    "id": "OPS-032",
+    "area": "Operations",
+    "question": "A pilot has just taken an over-the-counter medicine that causes drowsiness. What should the pilot do?",
+    "choices": [
+      "Fly anyway, because it is not a prescription",
+      "Not fly until the effects have worn off and it is safe",
+      "Take a second dose to counteract it"
+    ],
+    "answer": "B",
+    "explanation": "Medications can impair judgment and alertness, and 107.17 prohibits operating when a condition would interfere with safe operation.",
+    "ref": "14 CFR 107.17; ACS UA.V.E.K3"
+  }
+]
