@@ -1,6 +1,6 @@
 # Part 107 practice questions (free, with explanations)
 
-20 original practice questions for the FAA Part 107 remote pilot knowledge test (UAG), each with the correct answer, a short explanation and the 14 CFR section or FAA study-guide chapter it comes from. The same questions run as an interactive quiz at **[sentry-part107.judestrahm.workers.dev](https://sentry-part107.judestrahm.workers.dev/)**.
+20 original practice questions for the FAA Part 107 remote pilot knowledge test (UAG), each with the correct answer, a short explanation and the 14 CFR section, FAA study-guide chapter or Airman Certification Standards (ACS) code it comes from. The same questions run as an interactive quiz at **[sentry-part107.judestrahm.workers.dev](https://sentry-part107.judestrahm.workers.dev/)**.
 
 - `questions.json`: the 20 questions as JSON (`area`, `question`, `choices`, `answer`, `explanation`, `ref`)
 - Timed 20-question mock exam with a different set: [https://sentry-part107.judestrahm.workers.dev/practice-test/](https://sentry-part107.judestrahm.workers.dev/practice-test/)
