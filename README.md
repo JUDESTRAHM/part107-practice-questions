@@ -11,6 +11,26 @@
 
 Independent study aid. Not affiliated with or endorsed by the FAA. These are original questions, not actual test items. Rules change: check the current regulations on [eCFR](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107) before your test.
 
+<!-- study-guides:start -->
+## Study guides on the site
+
+Free topic guides with worked examples, all at [sentry-part107.judestrahm.workers.dev](https://sentry-part107.judestrahm.workers.dev/):
+
+- [Part 107 airspace practice questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/airspace/)
+- [Part 107 weather and METAR practice questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/weather/)
+- [Part 107 regulations practice questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/regulations/)
+- [Part 107 operations practice questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/operations/)
+- [Part 107 loading and performance practice questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/loading-performance/)
+- [Part 107 METAR and TAF practice questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/metar-taf/)
+- [Part 107 night, operations over people and Remote ID questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/night-over-people-remote-id/)
+- [Part 107 accident reporting and alcohol rule questions (free, with answers)](https://sentry-part107.judestrahm.workers.dev/accident-reporting-alcohol/)
+- [Part 107 cheat sheet: the numbers to memorize (with the rule for each)](https://sentry-part107.judestrahm.workers.dev/cheat-sheet/)
+- [Part 107 test FAQ: questions, passing score, retakes and next steps](https://sentry-part107.judestrahm.workers.dev/test-faq/)
+- [How to read a sectional chart for the Part 107 test (symbols and airspace)](https://sentry-part107.judestrahm.workers.dev/sectional-chart/)
+- [Part 107 airport operations: traffic patterns, runways, CTAF and radio calls](https://sentry-part107.judestrahm.workers.dev/airport-operations/)
+- [Part 107 Practice Exam: Free Timed 20-Question Mock Test](https://sentry-part107.judestrahm.workers.dev/practice-test/)
+<!-- study-guides:end -->
+
 ## Questions
 
 **1. What is the minimum flight visibility required for a Part 107 operation, as observed from the control station?** _(Regulations)_
