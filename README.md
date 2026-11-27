@@ -11,6 +11,29 @@
 
 Independent study aid. Not affiliated with or endorsed by the FAA. These are original questions, not actual test items. Rules change: check the current regulations on [eCFR](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107) before your test.
 
+<!-- full-bank:start -->
+## The full practice bank ($19)
+
+These 20 questions are a sample. The full bank is a 32-page PDF with **150 questions**, each with the answer and its 14 CFR citation, plus a one-page sheet of numbers to memorize. One-time $19, instant download after checkout: **[get the full Part 107 practice bank](https://buy.stripe.com/fZu8wReAXfvLdXB9V1aR20n)**.
+
+| Area | Questions | Pages |
+|---|---|---|
+| Regulations | 52 | 3 to 11 |
+| Airspace and operating requirements | 30 | 12 to 17 |
+| Weather | 20 | 18 to 21 |
+| Loading and performance | 12 | 22 to 24 |
+| Operations | 36 | 25 to 31 |
+| Numbers to memorize | | 32 |
+
+Three real pages from the PDF:
+
+| Page 3: Regulations, questions 1 to 8 | Page 9: answers with citations | Page 32: numbers to memorize |
+|---|---|---|
+| ![Page 3 of the Part 107 practice bank](look/regulations-questions.jpg) | ![Page 9, the answer key](look/answer-key.jpg) | ![Page 32, numbers to memorize](look/numbers-to-memorize.jpg) |
+
+No sectional chart images: chart questions describe the chart in words, so use the FAA testing supplement (FAA-CT-8080-2, free from the FAA) alongside it.
+<!-- full-bank:end -->
+
 <!-- study-guides:start -->
 ## Study guides on the site
 
