@@ -14,7 +14,7 @@ Independent study aid. Not affiliated with or endorsed by the FAA. These are ori
 <!-- full-bank:start -->
 ## The full practice bank ($19)
 
-These 20 questions are a sample. The full bank is a 32-page PDF with **150 questions**, each with the answer and its 14 CFR citation, plus a one-page sheet of numbers to memorize. One-time $19, instant download after checkout: **[get the full Part 107 practice bank](https://buy.stripe.com/fZu8wReAXfvLdXB9V1aR20n)**.
+These 20 questions are a sample. The full bank is a 32-page PDF with **150 questions**, each with the answer, an explanation and its source (14 CFR section, FAA study guide chapter or ACS task code), plus a one-page sheet of numbers to memorize. One-time $19, instant download after checkout: **[get the full Part 107 practice bank](https://buy.stripe.com/fZu8wReAXfvLdXB9V1aR20n)**.
 
 | Area | Questions | Pages |
 |---|---|---|
@@ -27,7 +27,7 @@ These 20 questions are a sample. The full bank is a 32-page PDF with **150 quest
 
 Three real pages from the PDF:
 
-| Page 3: Regulations, questions 1 to 8 | Page 9: answers with citations | Page 32: numbers to memorize |
+| Page 3: Regulations, questions 1 to 8 | Page 9: answers with 14 CFR citations | Page 32: numbers to memorize |
 |---|---|---|
 | ![Page 3 of the Part 107 practice bank](look/regulations-questions.jpg) | ![Page 9, the answer key](look/answer-key.jpg) | ![Page 32, numbers to memorize](look/numbers-to-memorize.jpg) |
 
